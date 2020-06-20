@@ -1,5 +1,5 @@
 {
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "learn-lerna-demo",
 	"devDependencies": {
 		"lerna": "^3.19.0"
